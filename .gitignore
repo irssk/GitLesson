@@ -1,14 +1,8 @@
+# .gitignore, созданный вручную
+# =============================
+.vs/
 bin/
 obj/
-.vscode/
-*.user
-*.suo
-*.cache
 *.exe
-bin/
-obj/
-.vscode/
-*.user
-*.suo
-*.cache
-*.exe
+*.dll
+*.log
