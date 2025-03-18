@@ -1,4 +1,4 @@
-# .gitignore, созданный вручную
+# .gitignore manually created
 # =============================
 .vs/
 bin/
