@@ -1,0 +1,7 @@
+# .gitignore, created via Visual Studio
+# =========================================
+.vscode/
+*.suo
+*.user
+*.nupkg
+*.sln.docstates
